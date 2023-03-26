@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Posts"
+    url: /year-archive/
+  - title: "Sample Collections"
+    url: /collection-archive/
+  - title: "Notes"
+    children:
+      - title: "Linux"
+        url: /sitemap/
+      - title: "Cloud"
+        url: /collection-archive/
