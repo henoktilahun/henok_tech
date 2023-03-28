@@ -108,8 +108,8 @@ analytics:
 author:
   name             : "Henok Tilahun"
   avatar           : "/assets/images/henok-tilahun-01.jpg"
-  bio              : "A confused sys-admin and youtuber."
-  location         : "Somewhere"
+  bio              : "A sys-admin and youtuber."
+  location         : "Cambridge, MA"
   email            :
   links:
     - label: "Email"
