@@ -2,12 +2,13 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Blog"
-    url: /categories/blogs/
   - title: "Notes"
     url: /categories/notes/
   - title: "Resume"
     url: /resume/
+  - title: "Blog"
+    url: https://www.henoktilahun.com/
+
 
 # sidebar navigation list sample
 notes:
