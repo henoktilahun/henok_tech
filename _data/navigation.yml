@@ -12,7 +12,7 @@ main:
 
 # sidebar navigation list sample
 notes:
-  - title: "Notes"
+  - title: "Cloud"
     children:
       - title: "Azure Enviornment"
         url: /categories/notes/azure-environments/
