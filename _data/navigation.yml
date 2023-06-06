@@ -12,43 +12,21 @@ main:
 
 # sidebar navigation list sample
 notes:
-  - title: "Notes"
+  - title: "Cloud"
     children:
+      - title: "Cloud Resume Challenge"
+        url: /notes/Cloud-Resume-Challenge/
       - title: "Azure Enviornment"
-        url: /categories/notes/azure-environments/
-      - title: "Child Page A2"
-        url: /
-      - title: "Child Page A3"
-        url: /
-      - title: "Child Page A4"
-        url: /
-  # - title: "Parent Page B"
-  #   children:
-  #     - title: "Child Page B1"
-  #       url: /
-  #     - title: "Child Page B2"
-  #       url: /
-  #     - title: "Child Page B3"
-  #       url: /
-  #     - title: "Child Page B4"
-  #       url: /
-  #     - title: "Child Page B5"
-  #       url: /
-  # - title: "Parent Page C"
-  #   children:
-  #     - title: "Child Page C1"
-  #       url: /
-  #     - title: "Child Page C2"
-  #       url: /
-  #     - title: "Child Page C3"
-  #       url: /
-  #     - title: "Child Page C4"
-  #       url: /
-  #     - title: "Child Page C5"
-  #       url: /
-  # - title: "Parent Page D"
-  #   children:
-  #     - title: "Child Page D1"
-  #       url: /
-  #     - title: "Child Page D2"
-  #       url: /
+        url: /notes/azure-environments/
+      - title: "Azure Account"
+        url: /notes/azure-account/
+      - title: "Azure Https"
+        url: /notes/azure-https/
+      - title: "Azure Local Development Setup"
+        url: /notes/azure-local-dev/
+      - title: "Azure Storage"
+        url: /notes/azure-storage-account/
+  - title: "Linux"
+    children:
+      - title: "Linux Intro"
+        url: /notes/linux-intro/

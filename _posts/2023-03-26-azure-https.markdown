@@ -5,6 +5,9 @@ date:   2023-03-26 20:26:00 -0400
 categories: Notes
 toc: true
 toc_sticky: true
+sidebar:
+  nav: "notes"
+author_profile: false
 ---
 
  - Need azure CDN for this

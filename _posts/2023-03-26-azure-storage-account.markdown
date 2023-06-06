@@ -5,6 +5,9 @@ date:   2023-03-26 20:26:00 -0400
 categories: Notes
 toc: true
 toc_sticky: true
+sidebar:
+  nav: "notes"
+author_profile: false
 ---
 
 - Before you can create an azure static website, you'll need to create a storage account where you can host your site
