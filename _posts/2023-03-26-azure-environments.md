@@ -1,10 +1,14 @@
 ---
-layout: single
+#layout: single
 title:  "Azure Enviornment"
+permalink: /notes/azure-environments
 date:   2023-03-26 20:30:00 -0400
 categories: Notes
 toc: true
 toc_sticky: true
+sidebar:
+  nav: "notes"
+author_profile: false
 ---
 
 __Azure Management Groups__
